@@ -1,4 +1,4 @@
-global.bankname = "MONIEPOINT"
+global.bankname = "MR2K CYBER TECH"
 
 global.banknumber = "8133729715"
 
